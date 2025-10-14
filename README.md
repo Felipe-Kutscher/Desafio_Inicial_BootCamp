@@ -3,9 +3,8 @@ Criando repositório para a disciplina BootCamp I
 
 1. Perfil Pessoal:
 Me chamo Luís Felipe, tenho 18 anos e moro no Cruzeiro Velho, Brasília/DF. Atualmente estou cursando Ciência de Dados e Machine Learning no UniCeub.
-Contato:
-lipekutscher@gmail.com
-(61) 99149-5628
+
+Contato: lipekutscher@gmail.com | (61) 99149-5628
 
 2.	Currículo:
 Ensino Fundamental e Médio (até 2º ano) – Marista João Paulo II – 2013 a 2023
@@ -41,6 +40,13 @@ Participação em duas simulações (2022 e 2023) do Senado Federal (Simulação
 Percursos Investigativos Optativos do Ensino Médio: Educação Financeira, Cultura Digital, Contextos e Movimento do Século XX
 
 Itinerário 3º ano Ensino Médio: Carreira Gamer
+
+2022 – atual, Jogador Profissional de EA FC (FIFA)
+Participo de uma equipe profissional de pro clubes (11 contra 11).
+Possuo 10 títulos, participação em eventos presenciais e premiações individuais, como por exemplo: Revelação do Ano e Melhor Volante.
+
+2019 – 2022, Jogador de Rainbow Six Siege
+Jogo de FPS Tático, onde participei de organizações e formei equipes de 5 players e treinadores. Fui top 2 da série B da Faceit e conquistei títulos.
 
 4.	Habilidades e Competências:
    
