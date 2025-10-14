@@ -42,11 +42,12 @@ Percursos Investigativos Optativos do Ensino Médio: Educação Financeira, Cult
 Itinerário 3º ano Ensino Médio: Carreira Gamer
 
 4.	Habilidades e Competências:
+   
 Habilidades: Photoshop, Canva, Capcut (edição de vídeo)
 Idiomas:       Português: Nativo
 	Inglês : Compreensão: Intermediário | Fala: Básico | Escrita: Básico
 		Espanhol: Compreensão : Básico | Básico | Escrita Básico
 
-5.	Recomendações e Testemunhos:
+6.	Recomendações e Testemunhos:
 
    <img width="890" height="529" alt="image" src="https://github.com/user-attachments/assets/0f8f4b7b-7a87-40f4-8873-3846a2c387a8" />
