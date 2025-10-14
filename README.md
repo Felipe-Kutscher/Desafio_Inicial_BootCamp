@@ -7,6 +7,7 @@ Me chamo Luís Felipe, tenho 18 anos e moro no Cruzeiro Velho, Brasília/DF. Atu
 Contato: lipekutscher@gmail.com | (61) 99149-5628
 
 2.	Currículo:
+
 Ensino Fundamental e Médio (até 2º ano) – Marista João Paulo II – 2013 a 2023
 Ensino Médio – Colégio Dromos (3º ano) – 2024
 Centro Educacional Brasil Central – Conclusão EJA/EAD – 2025
@@ -33,6 +34,7 @@ Curso de Lógica de Programação promovido por Irini Comercial e Editora Ltda. 
 Certificado de Participação na Jornada Python com duração de 8 horas, concluído no dia 18/09/25, conferido pela Hashtag Treinamentos.
 
 3.	Projetos Acadêmicos e Profissionais:
+
 Artigo: Fome e o Trabalho Análogo à Escravidão: uma vulnerabilidade em Brasília. Ano: 2023
 
 Participação em duas simulações (2022 e 2023) do Senado Federal (Simulação Interna do Colégio Marista João Paulo II - SIMJOPA)
