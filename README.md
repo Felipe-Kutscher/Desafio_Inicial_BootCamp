@@ -2,6 +2,7 @@
 Criando repositório para a disciplina BootCamp I
 
 1. Perfil Pessoal:
+
 Me chamo Luís Felipe, tenho 18 anos e moro no Cruzeiro Velho, Brasília/DF. Atualmente estou cursando Ciência de Dados e Machine Learning no UniCeub.
 
 Contato: lipekutscher@gmail.com | (61) 99149-5628
@@ -58,6 +59,6 @@ Português: Nativo
 Inglês: Compreensão: Intermediário | Fala: Básico | Escrita: Básico
 Espanhol: Compreensão: Básico | Fala: Básico | Escrita: Básico
 
-6.	Recomendações e Testemunhos:
+5.	Recomendações e Testemunhos:
 
    <img width="890" height="529" alt="image" src="https://github.com/user-attachments/assets/0f8f4b7b-7a87-40f4-8873-3846a2c387a8" />
