@@ -31,6 +31,7 @@ Curso de Windows 11 - Essencial promovido por Irini Comercial e Editora Ltda. co
 
 Curso de Lógica de Programação promovido por Irini Comercial e Editora Ltda. com a carga horária de 12 Horas - Data de Conclusão: 02/12/2024. 
 
+Certificado de Participação na Jornada Python com duração de 8 horas, concluído no dia 18/09/25, conferido pela Hashtag Treinamentos.
 
 3.	Projetos Acadêmicos e Profissionais:
 Artigo: Fome e o Trabalho Análogo à Escravidão: uma vulnerabilidade em Brasília. Ano: 2023
@@ -44,9 +45,10 @@ Itinerário 3º ano Ensino Médio: Carreira Gamer
 4.	Habilidades e Competências:
    
 Habilidades: Photoshop, Canva, Capcut (edição de vídeo)
-Idiomas:       Português: Nativo
-	Inglês : Compreensão: Intermediário | Fala: Básico | Escrita: Básico
-		Espanhol: Compreensão : Básico | Básico | Escrita Básico
+Idiomas:
+Português: Nativo
+Inglês: Compreensão: Intermediário | Fala: Básico | Escrita: Básico
+Espanhol: Compreensão: Básico | Fala: Básico | Escrita: Básico
 
 6.	Recomendações e Testemunhos:
 
