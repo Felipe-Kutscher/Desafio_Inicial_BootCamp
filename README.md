@@ -51,6 +51,8 @@ Possuo 10 títulos, participação em eventos presenciais e premiações individ
 2019 – 2022, Jogador de Rainbow Six Siege
 Jogo de FPS Tático, onde participei de organizações e formei equipes de 5 players e treinadores. Fui top 2 da série B da Faceit e conquistei títulos.
 
+![WhatsApp Image 2025-09-13 at 17 41 58](https://github.com/user-attachments/assets/c53d1aaa-0a23-41c7-8687-ee5f2845e856)
+
 4.	Habilidades e Competências:
    
 Habilidades: Photoshop, Canva, Capcut (edição de vídeo)
